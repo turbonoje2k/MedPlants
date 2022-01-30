@@ -12,6 +12,8 @@
 		EAB1084427A7350200C36A53 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EAB1084327A7350200C36A53 /* Assets.xcassets */; };
 		EAB1084727A7350200C36A53 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EAB1084627A7350200C36A53 /* Preview Assets.xcassets */; };
 		EAB1084E27A7397B00C36A53 /* plants.json in Resources */ = {isa = PBXBuildFile; fileRef = EAB1084D27A7397B00C36A53 /* plants.json */; };
+		EAB1085027A73A1600C36A53 /* Plants.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAB1084F27A73A1600C36A53 /* Plants.swift */; };
+		EAB1085227A73ACB00C36A53 /* Bundle-decodable.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAB1085127A73ACB00C36A53 /* Bundle-decodable.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +23,8 @@
 		EAB1084327A7350200C36A53 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EAB1084627A7350200C36A53 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		EAB1084D27A7397B00C36A53 /* plants.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = plants.json; sourceTree = "<group>"; };
+		EAB1084F27A73A1600C36A53 /* Plants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Plants.swift; sourceTree = "<group>"; };
+		EAB1085127A73ACB00C36A53 /* Bundle-decodable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Bundle-decodable.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,8 +57,10 @@
 		EAB1083E27A7350000C36A53 /* MedPlants */ = {
 			isa = PBXGroup;
 			children = (
+				EAB1084F27A73A1600C36A53 /* Plants.swift */,
 				EAB1083F27A7350100C36A53 /* MedPlantsApp.swift */,
 				EAB1084127A7350100C36A53 /* ContentView.swift */,
+				EAB1085127A73ACB00C36A53 /* Bundle-decodable.swift */,
 				EAB1084D27A7397B00C36A53 /* plants.json */,
 				EAB1084327A7350200C36A53 /* Assets.xcassets */,
 				EAB1084527A7350200C36A53 /* Preview Content */,
@@ -143,6 +149,8 @@
 			files = (
 				EAB1084227A7350100C36A53 /* ContentView.swift in Sources */,
 				EAB1084027A7350100C36A53 /* MedPlantsApp.swift in Sources */,
+				EAB1085027A73A1600C36A53 /* Plants.swift in Sources */,
+				EAB1085227A73ACB00C36A53 /* Bundle-decodable.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
