@@ -1,0 +1,168 @@
+//
+//  plants.json
+//  florusMedicinal (iOS)
+//
+//  Created by noje on 18/02/2021.
+//
+
+{
+    plants: [
+        {
+            Name: "Aloés",
+            Property: "Soulage la plupart des problèmes cutanés."
+        }
+        {
+            Name: "Angélique",
+            Property: "Stimulant, Soulage les symptômes digestifs."
+        }
+        {
+            Name:"Arnica",
+            Property: "Anti-inflammatoire, antalgique, contre-coup."
+        }
+        {
+            Name:"Artichaut",
+            Property: "Digestif, Diurétique, Dépuratif, Protecteur du foie et des reins."
+        }
+        {
+            Name: "Aubépine",
+            property: "Adoucissante pour la gorge."
+        }
+        {
+            Name: "Avocat",
+            Property: "Source de nombreux nutriments, nourrit et répare la peau et les cheveux abîmés."
+        }
+        {
+            Name: "Bardanne",
+            Property: "Assainissante et dépurative, réputée pour purifer et renforcer la peau."
+        }
+        {
+            Name: "Bourrache",
+            Property: "Cicatrisante, émolliente, tonique cutanée"
+        }
+        {
+            Name: "Calendula",
+            Property: "Calmant, apaise les affections respiratoires, soulage les plaies, les brulures, l'eczéma."
+        }
+        {
+            Name: "Camomille",
+            Property: "Calmante, adoucissante, digestive."
+        }
+        {
+            Name: "Capucine",
+            Property: "Antimicrobienne, réputée pour les soins capillaires."
+        }
+        {
+            Name: "Carotte",
+            Property: "Riche en antioxydants, nourrissante, adoucissante, effet bonne mine."
+        }
+        {
+            Name: "Canelle",
+            Property: "Tonique, antiseptique, antidouleur."
+        }
+        {
+            Name: "Citron",
+            Property: "Tonique, digestif, antiseptique, adoucissant."
+        }
+        {
+            Name: "Coquelicot",
+            Property: "Antispasmodique, antitussif, adoucissant."
+        }
+        {
+            Name: "Estragon",
+            Property: "Digestif, antispasmodique (hoquet, coliques)"
+        }
+        {
+            Name: "Eucalyptus",
+            Property: "Soulage et prévient les affections respiratoires."
+        }
+        {
+            Name: "Fenouil",
+            Property: "Digestif et anticarminatif (anti-gaz)."
+        }
+        {
+            Name: "Ginkgo biloba",
+            Property: "Riche en antioxidants, renforce les vaisseaux et améliore la circulation cérébrale."
+        }
+        {
+            Name: "Guimauve",
+            Property: "Adoucissante, pectorale, anti-inflamatoire."
+        }
+        {
+            Name: "Hamamélis",
+            Property: "Astringent et stimulant vasculaire."
+        }
+        {
+            Name: "Hélichryse",
+            Property: "Antiâge, antiride, calme les coups, bosses, hématomes."
+        }
+        {
+            Name: "Lavande",
+            Property: "Calmante, sédative, cicatrisante, antiseptique."
+        }
+        {
+            Name: "Lierre Grimpant",
+            Property: "Antitussif, cicatrisant, amincissant, tonique circulatoire."
+        }
+        {
+            Name: "Mauve",
+            Property: "Adoucissante, pectorale, anti-inflammatoire."
+        }
+        {
+            Name: "Menthe",
+            Property: "Purifiante, rafraichissante, stimulante, tonifiante."
+        }
+        {
+            Name: "Millepertuis",
+            Property: "Utile contre les irritations, et les douleurs articulaires."
+        }
+        {
+            Name: "Ortie",
+            Property: "Défatigante, reconstituante, reminéralisante, soulage l'eczéma et les douleur articulaires."
+        }
+        {
+            Name: "Passiflore",
+            Property: "Apaisante sédative."
+        }
+        {
+            Name: "Pensée sauvage",
+            Property: "Dépurative, notamment en cas d'affections cutanées."
+        }
+        {
+            Name: "Pin sylvestre",
+            Property: "Tonique, expectorant, antiseptique, rubéfiant."
+        }
+        {
+            Name: "Pissenlit",
+            Property: "Digestif, diurétique et dépuratif (racines). Antioxidant, anti-inflammatoire (fleurs)."
+        }
+        {
+            Name: "Reine des prés",
+            Property: "Anti-inflammatoire, digestive, cicatrisante et dépurative."
+        }
+        {
+            Name: "Ronce",
+            Property: "Utile contre les maux de gorge ou les aphtes, cicatrisante."
+        }
+        {
+            Name: "Sauge",
+            Property: "Soulage rhumes, indigestion, piqures d'insectes, irritations cutanées, contusions"
+        }
+        {
+            Name: "Thym",
+            Property: "Digestif, aide à prévenir ou soulager les rhumes"
+        }
+        {
+            Name: "Tilleul",
+            Property: "Calmant, relaxant, sédatif."
+        }
+        {
+            Name: "Verveine citronnelle",
+            Property: "Digestive, calmante (sédative)."
+        }
+        {
+            Name: "Violette odorante",
+            Property: "Antitussive, expectorante, sudorifique, calmante, émolliente."
+        }
+    ]
+}
+
