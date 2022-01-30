@@ -27,7 +27,7 @@ struct ContentView: View {
                     VStack(alignment: .leading) {
                         Text(plants.name)
                             .font(.headline)
-                        Text("\(plants.Property) property")
+                        Text("\(plants.property)")
                             .foregroundColor(.secondary)
                     }
                 }
